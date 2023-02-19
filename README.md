@@ -2,7 +2,7 @@
 
 ## Description
 
-The Prework Study Guide introduced me to HTML, CSS, Git, and JavaScript. I can use this guide throughout the course and continue adding more notes to assist me. 
+The Prework Study Guide introduced me to HTML, CSS, Git, and JavaScript. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. 
+I can use this guide throughout the course and continue adding more notes to assist me. Use Chrome DevTools for further assistance. 
 
 ## Credits
 
